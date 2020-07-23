@@ -11,7 +11,7 @@ Projeto para demostrar a utilização de componentes em React Hooks desenvolvido
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod3-react-counter-react-hooks.git`
-2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod3-react-counter`;
+2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod3-react-counter-react-hooks`;
 3. Executar o comando `yarn` para baixar as dependências. Ex: `yarn`;
 4. Executar o comando `yarn start`. Ex: `yarn start`
 5. Acessar o endereço `http://localhost:3000/`
