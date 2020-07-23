@@ -1,4 +1,4 @@
-# Componentes em React ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# Componentes em React Hooks ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Projeto para demostrar a utilização de componentes em React Hooks desenvolvido no bootcamp fullstack da IGTI.
 
